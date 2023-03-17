@@ -1,1 +1,1 @@
-# Pokemon-OOP-project
+#Text based Pokemon Battle Simulator with OOP
