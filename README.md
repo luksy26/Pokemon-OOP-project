@@ -1,7 +1,7 @@
 # Text based Pokemon Battle Simulator with OOP
 
 
-Edit configurations -> arguments : output.txt -> file
+Edit configurations -> arguments : output.txt -> file ; 
 				   null -> console
 
 Patterns used:
