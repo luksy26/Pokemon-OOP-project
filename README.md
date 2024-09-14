@@ -3,7 +3,7 @@
 ## Usage
 For **IntelliJ**:
 - Clone the repo and import the project
-- Before running, navigate to `Edit configurations` -> `arguments` :
+- Before running the code in `Main`, navigate to `Edit configurations` -> `arguments` :
    - `filename.txt` if you want to see the results in a file  
    - `null` if you want to see the results into the IDE console
 
