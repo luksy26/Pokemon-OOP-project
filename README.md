@@ -9,7 +9,7 @@ For **IntelliJ**:
 
 ## Design Patterns used:
 
-- Builder: to easily create `Item`, `Pokemon` and `Ability` objects
-- Singleton: for `PokemonFactory` and `ItemFactory` classes
-- Factory: to create `Pokemon` and `Item` objects
-- Command: for `Pokemon` class
+- **Builder**: to easily create `Item`, `Pokemon` and `Ability` objects
+- **Singleton**: for `PokemonFactory` and `ItemFactory` classes
+- **Factory**: to create `Pokemon` and `Item` objects
+- **Command**: for `Pokemon` class
